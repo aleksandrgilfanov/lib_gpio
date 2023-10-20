@@ -16,13 +16,13 @@ to be used.
 
 .. _lib_gpio_n_bit_input:
 
-.. figure:: images/n_bit_input.*
+.. figure:: images/n_bit_input.png
 
    Input configuration
 
 .. _lib_gpio_n_bit_output:
 
-.. figure:: images/n_bit_output.*
+.. figure:: images/n_bit_output.png
 
    Output configuration
 
@@ -57,7 +57,7 @@ the xCORE device. The application
 can connect via an interface connection using an array of the ``output_gpio_if``
 interface type:
 
-.. figure:: images/output_gpio_task_diag.*
+.. figure:: images/output_gpio_task_diag.png
 
    Output GPIO task diagram
 
@@ -112,7 +112,7 @@ the xCORE device. The application
 can connect via an interface connection using an array of the ``input_gpio_if``
 interface type:
 
-.. figure:: images/input_gpio_task_diag.*
+.. figure:: images/input_gpio_task_diag.png
 
    Input GPIO task diagram
 
